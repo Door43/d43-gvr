@@ -1,0 +1,19 @@
+
+----
+~~NOCACHE~~
+**Door43**
+
+  * [[gvr:home|Door43 (gvr)]]
+  * [[en:license|License]]
+
+**Downloads**
+
+All content for this namespace is available in the [[https://github.com/Door43/d43-gvr|d43-gvr repository]].  To download it as a zip file, click [[https://github.com/Door43/d43-gvr/archive/master.zip|d43-gvr.zip]]
+
+**Recent Changes**
+{{changes>ns = gvr}}
+
+**Language Information**
+
+[[http://www.ethnologue.com/language/gvr|Ethnologue data]]
+
